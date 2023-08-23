@@ -1,4 +1,4 @@
-```python
+python
 import telegram
 import subprocess
 import os
